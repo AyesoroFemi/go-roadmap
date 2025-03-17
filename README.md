@@ -39,7 +39,7 @@
 ---
 
 ### 🏗️ Project Building – REST APIs
-- [YouTube: Go REST API Course (8 Hours)](https://www.youtube.com/watch?v=mD-rLu0QiSs&t=13908s)
+- [YouTube: Go REST API Course (4 Hours)](https://www.youtube.com/watch?v=mD-rLu0QiSs&t=13908s)
 - [Bytesize Go – Mastering Go with GoLand](https://www.bytesizego.com/courses/mastering-go-with-goland)
 - [Udemy: Backend Engineering with Go](https://www.udemy.com/course/backend-engineering-with-go/?couponCode=KEEPLEARNING)
 - [YouTube: REST API with Go Full Course](https://www.youtube.com/watch?v=h3fqD6IprIA&t=8057s)
