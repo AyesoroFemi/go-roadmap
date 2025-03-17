@@ -1,4 +1,4 @@
-# 🛣️ Golang Roadmap — Software Engineer
+# 🛣️ Master Golang Fast – Ultimate Roadmap & Resources to Become a Pro Software Engineer
 
 ### 📍 Official Roadmap
 - [Golang Roadmap on roadmap.sh](https://roadmap.sh/golang)
